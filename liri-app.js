@@ -30,13 +30,13 @@ switch (command) {
     case "concert-this":
         concertThis(value);
         break;
-    case "spotify-this-song":
+    case "spotify-this":
         spotifySong(value);
         break;
     case "movie-this":
         movieThis(value);
         break;
-    case "do-what-it-says":
+    case "do-this":
         doThis(value);
         break;
 };
