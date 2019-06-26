@@ -1,4 +1,9 @@
 # liri-node-app
+Screenshots 
+
+Screenshots are in the "photos" folder
+
+
 Introduction
 
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in commands and gives back data. Currently, it is able to search Spotify for songs, OMDB for movies & Bands in Town for concerts.
